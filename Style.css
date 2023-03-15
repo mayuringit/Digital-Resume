@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    overflow-x: hidden;
+
+}
+#left-container{
+    background-color: rgb(68, 72, 92);
+    color: white;
+}
+ 
+ul{
+    padding-left: 2em;
+}
+span{
+    color: gray;
+    font-size: smaller;
+}
+#contact{
+    line-height: 2rem;
+}
